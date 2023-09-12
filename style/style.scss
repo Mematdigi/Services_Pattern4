@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+}
+
+@import "header";
+@import "banner";
+@import "statistics";
+@import "demo";
+@import "services";
+@import "testimonial";
+@import "footer";
+@import "about";
+@import "contact";
+
+.mmd-style{
+    margin-left: 80px;
+} 
+
+.mmd-cta-section{
+    margin: 80px 20px;
+}
